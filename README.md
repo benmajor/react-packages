@@ -8,3 +8,6 @@ Each one is available as an NPM module, with some caveats for the use of `craco`
 
 [`react-debounce-input`](https://www.npmjs.com/package/react-debounce-input)  
 React component that renders an Input, Textarea or other element with debounced onChange. Can be used as drop-in replacement for `<input type="text" />` or `<textarea />`
+
+[`react-cookie`](https://www.npmjs.com/package/react-cookie)  
+Very clean React/Native implementation of [`universal-cookie`](https://www.npmjs.com/package/universal-cookie).
